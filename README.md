@@ -46,5 +46,6 @@ And a quick test
 ## TODO
 
 1. It has the start for a `-s` source map - that code is still in progress.
-2. Make it faster.
+2. Add in ability to include .css dependencies that are imported into a single file.
+3. Make it faster.  This is mostly replace the existing CSS scanner with a faster one - lexie.
 
