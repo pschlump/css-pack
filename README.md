@@ -14,13 +14,12 @@ Will pack and remove comments from the CSS file.
 
 ## Options
 
--i 	&lt;file.css&gt;	Input file.
-
--o 	&lt;file.min.css&gt;	Padcked output file.
-
--d 	&lt;file.out&gt;	Dependencies in the CSS file.  These are `url()` and `@import`.
-
--D		Debug flag
+Option                     | Description
+-------------------------- | -------------------------------------
+-i &lt;file.css&gt;        | Input file.
+-o &lt;file.min.css&gt;    | Packed output file.
+-d &lt;file.out&gt;        | Dependencies in the CSS file.  These are `url()` and `@import`.
+-D                         | Debug flag
 
 ## To build
 
