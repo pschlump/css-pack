@@ -1,0 +1,3 @@
+.abc{color:green;background-image:url(./bob.jpg)}
+.abc-xyz{color:green;background-image:url(./bob.jpg)}
+@import'test2a.css';
