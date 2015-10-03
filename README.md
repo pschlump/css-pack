@@ -42,3 +42,9 @@ And a quick test
 	$ diff test2.ref.css test2.min.css
 
 ```
+
+## TODO
+
+1) It has the start for a `-s` source map - that code is still in progress.
+2) Make it faster.
+
