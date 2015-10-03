@@ -45,6 +45,6 @@ And a quick test
 
 ## TODO
 
-1) It has the start for a `-s` source map - that code is still in progress.
-2) Make it faster.
+1. It has the start for a `-s` source map - that code is still in progress.
+2. Make it faster.
 
