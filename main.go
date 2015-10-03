@@ -76,6 +76,7 @@ func main() {
 		case scanner.TokenString:
 			o += token.Value
 			if atImport == 1 {
+				token.Type = scanner.TokenImportURI
 				if opts.Deps != "" {
 					d += "@import " + token.Value + "\n"
 				}
